@@ -1,0 +1,97 @@
+BuilderIcons-Filled.ttf | Builder Icons | Regular | 229952 bytes | 814 mapped codepoints | 781 PUA
+BuilderIcons-Regular.ttf | Builder Icons | Regular | 255388 bytes | 814 mapped codepoints | 781 PUA
+AccanthisADFStd-Regular.otf | Other Fonts | Regular | 51728 bytes | 328 mapped codepoints | 18 PUA
+AmaticSC-Bold.ttf | Other Fonts | Bold | 146348 bytes | 797 mapped codepoints | 0 PUA
+AmaticSC-Regular.ttf | Other Fonts | Regular | 142164 bytes | 797 mapped codepoints | 0 PUA
+Arimo-Bold.ttf | Other Fonts | Bold | 318184 bytes | 3010 mapped codepoints | 8 PUA
+Arimo-Regular.ttf | Other Fonts | Regular | 317652 bytes | 3010 mapped codepoints | 8 PUA
+Balthazar-Regular.ttf | Other Fonts | Regular | 28224 bytes | 284 mapped codepoints | 1 PUA
+Bangers-Regular.ttf | Other Fonts | Regular | 95664 bytes | 558 mapped codepoints | 0 PUA
+BuilderExtended-Bold.otf | Builder Extended | Bold | 79504 bytes | 627 mapped codepoints | 1 PUA
+BuilderExtended-Regular.otf | Builder Extended | Regular | 78708 bytes | 627 mapped codepoints | 1 PUA
+BuilderExtended-SemiBold.otf | Builder Extended | Regular | 78520 bytes | 627 mapped codepoints | 1 PUA
+BuilderMono-Bold.otf | Builder Mono | Bold | 62992 bytes | 611 mapped codepoints | 0 PUA
+BuilderMono-Light.otf | Builder Mono | Light | 59048 bytes | 611 mapped codepoints | 0 PUA
+BuilderMono-Regular.otf | Builder Mono | Regular | 58864 bytes | 611 mapped codepoints | 0 PUA
+BuilderSans-Bold.otf | Builder Sans | Bold | 77840 bytes | 627 mapped codepoints | 1 PUA
+BuilderSans-ExtraBold.otf | Builder Sans | Regular | 77504 bytes | 627 mapped codepoints | 1 PUA
+BuilderSans-Medium.otf | Builder Sans | Regular | 77856 bytes | 627 mapped codepoints | 1 PUA
+BuilderSans-Regular.otf | Builder Sans | Regular | 77352 bytes | 627 mapped codepoints | 1 PUA
+ComicNeue-Angular-Bold.ttf | Other Fonts | Bold | 62916 bytes | 330 mapped codepoints | 0 PUA
+Creepster-Regular.ttf | Other Fonts | Regular | 61368 bytes | 227 mapped codepoints | 0 PUA
+DenkOne-Regular.ttf | Other Fonts | Regular | 44016 bytes | 264 mapped codepoints | 1 PUA
+Fondamento-Italic.ttf | Other Fonts | Italic | 64716 bytes | 369 mapped codepoints | 0 PUA
+Fondamento-Regular.ttf | Other Fonts | Regular | 84160 bytes | 369 mapped codepoints | 0 PUA
+FredokaOne-Regular.ttf | Other Fonts | Regular | 42452 bytes | 228 mapped codepoints | 0 PUA
+GrenzeGotisch-Bold.ttf | Other Fonts | Bold | 91808 bytes | 643 mapped codepoints | 2 PUA
+GrenzeGotisch-Regular.ttf | Other Fonts | Regular | 91596 bytes | 643 mapped codepoints | 2 PUA
+Guru-Regular.otf | Other Fonts | Regular | 695888 bytes | 2699 mapped codepoints | 480 PUA
+HWYGOTH.ttf | Other Fonts | Regular | 53012 bytes | 250 mapped codepoints | 0 PUA
+Inconsolata-Regular.ttf | Other Fonts | Regular | 80456 bytes | 312 mapped codepoints | 1 PUA
+IndieFlower-Regular.ttf | Other Fonts | Regular | 55300 bytes | 353 mapped codepoints | 1 PUA
+JosefinSans-Regular.ttf | Other Fonts | Regular | 58548 bytes | 574 mapped codepoints | 0 PUA
+Jura-Regular.ttf | Other Fonts | Regular | 101928 bytes | 1052 mapped codepoints | 0 PUA
+Kalam-Regular.ttf | Other Fonts | Regular | 427336 bytes | 1026 mapped codepoints | 592 PUA
+LuckiestGuy-Regular.ttf | Other Fonts | Regular | 58292 bytes | 367 mapped codepoints | 0 PUA
+Merriweather-Italic.ttf | Other Fonts | Italic | 142548 bytes | 876 mapped codepoints | 0 PUA
+Merriweather-Regular.ttf | Other Fonts | Regular | 149092 bytes | 876 mapped codepoints | 0 PUA
+Michroma-Regular.ttf | Other Fonts | Regular | 62972 bytes | 485 mapped codepoints | 0 PUA
+Montserrat-Black.ttf | Other Fonts | Regular | 197888 bytes | 969 mapped codepoints | 0 PUA
+Montserrat-Bold.ttf | Other Fonts | Bold | 198072 bytes | 969 mapped codepoints | 0 PUA
+Montserrat-Medium.ttf | Other Fonts | Regular | 198104 bytes | 969 mapped codepoints | 0 PUA
+Montserrat-Regular.ttf | Other Fonts | Regular | 197976 bytes | 969 mapped codepoints | 0 PUA
+NotoNaskhArabicUI-Regular.ttf | Language & Script Fonts | Regular | 281232 bytes | 1438 mapped codepoints | 0 PUA
+NotoSansBengaliUI-Regular.ttf | Language & Script Fonts | Regular | 190928 bytes | 153 mapped codepoints | 0 PUA
+NotoSansDevanagariUI-Regular.ttf | Language & Script Fonts | Regular | 199888 bytes | 244 mapped codepoints | 0 PUA
+NotoSansGeorgian-Regular.ttf | Language & Script Fonts | Regular | 41656 bytes | 140 mapped codepoints | 0 PUA
+NotoSansKhmerUI-Regular.ttf | Language & Script Fonts | Regular | 75108 bytes | 175 mapped codepoints | 0 PUA
+NotoSansMyanmarUI-Regular.ttf | Language & Script Fonts | Regular | 191096 bytes | 237 mapped codepoints | 0 PUA
+NotoSansSinhalaUI-Regular.ttf | Language & Script Fonts | Regular | 309464 bytes | 169 mapped codepoints | 0 PUA
+NotoSansThaiUI-Regular.ttf | Language & Script Fonts | Regular | 39288 bytes | 101 mapped codepoints | 0 PUA
+Nunito-Regular.ttf | Other Fonts | Regular | 166700 bytes | 925 mapped codepoints | 1 PUA
+Oswald-Bold.ttf | Other Fonts | Bold | 91676 bytes | 734 mapped codepoints | 0 PUA
+Oswald-Regular.ttf | Other Fonts | Regular | 91400 bytes | 734 mapped codepoints | 0 PUA
+PatrickHand-Regular.ttf | Other Fonts | Regular | 212112 bytes | 515 mapped codepoints | 0 PUA
+PermanentMarker-Regular.ttf | Other Fonts | Regular | 73620 bytes | 229 mapped codepoints | 0 PUA
+PressStart2P-Regular.ttf | Other Fonts | Regular | 66432 bytes | 593 mapped codepoints | 3 PUA
+RobloxEmoji.ttf | Emoji & Roblox Symbols | Regular | 1860 bytes | 7 mapped codepoints | 4 PUA
+Roboto-Bold.ttf | Other Fonts | Bold | 170348 bytes | 896 mapped codepoints | 3 PUA
+Roboto-Italic.ttf | Other Fonts | Italic | 173516 bytes | 896 mapped codepoints | 3 PUA
+Roboto-Regular.ttf | Other Fonts | Regular | 171272 bytes | 896 mapped codepoints | 3 PUA
+RobotoCondensed-Regular.ttf | Other Fonts | Regular | 169848 bytes | 896 mapped codepoints | 3 PUA
+RobotoMono-Regular.ttf | Other Fonts | Regular | 86908 bytes | 876 mapped codepoints | 1 PUA
+RomanAntique.otf | Other Fonts | Regular | 268000 bytes | 257 mapped codepoints | 7 PUA
+Sarpanch-Bold.ttf | Other Fonts | Bold | 278336 bytes | 430 mapped codepoints | 1 PUA
+Sarpanch-Regular.ttf | Other Fonts | Regular | 276380 bytes | 430 mapped codepoints | 1 PUA
+SourceSansPro-Bold.ttf | Other Fonts | Bold | 267388 bytes | 1298 mapped codepoints | 0 PUA
+SourceSansPro-It.ttf | Other Fonts | Italic | 94816 bytes | 677 mapped codepoints | 0 PUA
+SourceSansPro-Light.ttf | Other Fonts | Regular | 268588 bytes | 1298 mapped codepoints | 0 PUA
+SourceSansPro-Regular.ttf | Other Fonts | Regular | 269108 bytes | 1298 mapped codepoints | 0 PUA
+SourceSansPro-Semibold.ttf | Other Fonts | Regular | 268280 bytes | 1298 mapped codepoints | 0 PUA
+SpecialElite-Regular.ttf | Other Fonts | Regular | 151080 bytes | 368 mapped codepoints | 0 PUA
+TitilliumWeb-Bold.ttf | Other Fonts | Bold | 53896 bytes | 396 mapped codepoints | 2 PUA
+TitilliumWeb-Regular.ttf | Other Fonts | Regular | 57392 bytes | 396 mapped codepoints | 2 PUA
+TwemojiMozilla.ttf | Emoji & Roblox Symbols | Regular | 1324332 bytes | 1333 mapped codepoints | 1 PUA
+Ubuntu-Italic.ttf | Other Fonts | Italic | 326292 bytes | 1194 mapped codepoints | 49 PUA
+Ubuntu-Regular.ttf | Other Fonts | Regular | 298928 bytes | 1194 mapped codepoints | 49 PUA
+zekton_rg.ttf | Other Fonts | Regular | 86964 bytes | 522 mapped codepoints | 0 PUA
+SourceSansPro-Black.ttf | Other Fonts | Regular | 148368 bytes | 715 mapped codepoints | 0 PUA
+SourceSansPro-Bold.ttf | Other Fonts | Bold | 148932 bytes | 715 mapped codepoints | 0 PUA
+SourceSansPro-Light.ttf | Other Fonts | Regular | 150244 bytes | 715 mapped codepoints | 0 PUA
+SourceSansPro-Regular.ttf | Other Fonts | Regular | 149508 bytes | 714 mapped codepoints | 0 PUA
+SourceSansPro-Semibold.ttf | Other Fonts | Regular | 149636 bytes | 715 mapped codepoints | 0 PUA
+11S0BLT_.TTF | Other Fonts | Regular | 45192 bytes | 192 mapped codepoints | 0 PUA
+3-DSalter Regular.ttf | Other Fonts | Regular | 27736 bytes | 85 mapped codepoints | 0 PUA
+adrip1.ttf | Other Fonts | Regular | 69632 bytes | 104 mapped codepoints | 0 PUA
+ARCADE_v0.1.ttf | Other Fonts | Normal Normal | 35612 bytes | 109 mapped codepoints | 0 PUA
+BEYONDSKTRIAL.ttf | Other Fonts | trial | 516096 bytes | 282 mapped codepoints | 0 PUA
+bilbobold.ttf | Other Fonts | Regular | 61476 bytes | 72 mapped codepoints | 2 PUA
+bilbofine.ttf | Other Fonts | Regular | 62420 bytes | 71 mapped codepoints | 2 PUA
+bilboregular.ttf | Other Fonts | Regular | 60956 bytes | 72 mapped codepoints | 3 PUA
+comesinhandy.ttf | Other Fonts | Regular | 24864 bytes | 693 mapped codepoints | 4 PUA
+CurrentlyLiving.ttf | Other Fonts | Regular | 63968 bytes | 693 mapped codepoints | 4 PUA
+HEARTBRE.TTF | Other Fonts | Regular | 46072 bytes | 251 mapped codepoints | 2 PUA
+RobloxFontRegular-X30AZ.ttf | Roblox / Brand Fonts | Regular | 30360 bytes | 86 mapped codepoints | 0 PUA
+roblox_classic__font__by_ripoof_dek2qmw.ttf | Roblox / Brand Fonts | Regular | 60348 bytes | 281 mapped codepoints | 0 PUA
+Roblox2017-v6dO.ttf | Roblox / Brand Fonts | Regular | 19304 bytes | 277 mapped codepoints | 2 PUA
+Roblox.ttf | Roblox / Brand Fonts | Regular | 39432 bytes | 270 mapped codepoints | 0 PUA
